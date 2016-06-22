@@ -1,0 +1,1847 @@
+============================================================================
+Thanks for your help. :)
+
+--------------------------------------------------------------------------------------------------
+Don't translate {## some description ##} part. It's place holder for "words".
+And the description is for what words are placed.
+
+example) 
+
+Photo is moved to the  {##  album name ##}   album.
+==> This message will be 
+
+"Photo is moved to the  MyPet album." or  "Photo is moved to the  Family album." or  "Photo is moved to the Screenshot album."
+
+
+{## count of photo/video ##}   photos is moved to {##  album name ##}  
+==> This message will be 
+
+"123  photos is moved to MyPet" or  "50  photos is moved to Family" or  "777  photos is moved to Screenshot".
+--------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------
+And { TO_Translator: some descrption } is for your undestading. ( Don't translate between '{' and  '}' )
+
+example) 
+
+No location
+{ TO_Translator: no gps information in a photo. ( part of detail information of a photo) }  <=== this is for your understanding. Don't translate.
+
+--------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+============================================================================
+
+Many thanks to {##  your name ##}. ( Chinese Taiwan translation. )
+{ TO_Translator: 1st line of next update "What's new". :) }
+[TRANSLATION]:
+
+
+
+Next
+[TRANSLATION]:
+
+
+
+
+Photo is moved to the  {##  album name ##}   album.
+[TRANSLATION]:
+
+
+
+Moved to trash.
+[TRANSLATION]:
+
+
+
+None selected.
+[TRANSLATION]:
+
+
+
+Share image
+[TRANSLATION]:
+
+
+
+Share video
+[TRANSLATION]:
+
+
+
+Delete the selected album?
+[TRANSLATION]:
+
+
+
+Enter the name of the album
+[TRANSLATION]:
+
+
+
+{## album name ##}  already exists
+[TRANSLATION]:
+
+
+
+Yes
+[TRANSLATION]:
+
+
+
+No
+[TRANSLATION]:
+
+
+
+Done
+[TRANSLATION]:
+
+
+
+Later
+[TRANSLATION]:
+
+
+
+Okay
+[TRANSLATION]:
+
+
+
+Cancel
+[TRANSLATION]:
+
+
+
+Add new album
+[TRANSLATION]:
+
+
+
+Video
+[TRANSLATION]:
+
+
+
+ETC
+[TRANSLATION]:
+
+
+
+Limited to {## count of characters} characters
+[TRANSLATION]:
+
+
+
+
+Create new album
+[TRANSLATION]:
+
+
+
+{## count of photo/video ##}   photos is moved to {##  album name ##}  .
+[TRANSLATION]:
+
+
+
+File successfully deleted.
+[TRANSLATION]:
+
+
+
+Connecting. Please try again later.
+[TRANSLATION]:
+
+
+
+Connection lost. Please connect again.
+[TRANSLATION]:
+
+
+
+No photos.
+[TRANSLATION]:
+
+
+
+Photos to organize
+[TRANSLATION]:
+
+
+
+Albums to organize
+[TRANSLATION]:
+
+
+
+Album to move
+[TRANSLATION]:
+
+
+
+Empty
+{ TO_Translator: making trash album empty }
+[TRANSLATION]:
+
+
+
+Delete this album?
+[TRANSLATION]:
+
+
+
+Photos under the deleted album are moved to trash.
+[TRANSLATION]:
+
+
+
+There is no photos to organize.
+[TRANSLATION]:
+
+
+
+Original photos are deleted also and can not be recovered if you empty the trash. Would you like to proceed?
+[TRANSLATION]:
+
+
+
+Original file is also deleted and can not be recovered. Proceed?
+[TRANSLATION]:
+
+
+
+Moving back to the list since no photos exist.
+[TRANSLATION]:
+
+
+
+I always wondered how to organize my photos but didn't realize there was this app. It's so simple I organized 100 photos in a minute~ FOTO is the best photo organizer with no doubt!
+{ TO_Translator: email message for recommend }
+[TRANSLATION]:
+
+
+
+Rename album
+[TRANSLATION]:
+
+
+
+Delete (To Trash)
+[TRANSLATION]:
+
+
+
+Delete
+[TRANSLATION]:
+
+
+
+connect to device.
+{ TO_Translator: device is chromcast device. chromecast can send current device screen to TV. }
+[TRANSLATION]:
+
+
+
+Disconnect to chromecast?
+[TRANSLATION]:
+
+
+
+Disconnect
+[TRANSLATION]:
+
+
+
+No photos.
+[TRANSLATION]:
+
+
+
+Reconnect to chromecast.
+[TRANSLATION]:
+
+
+
+Select all
+[TRANSLATION]:
+
+
+
+Do you like our app? Give us a good rating and we'll return greater updates.
+[TRANSLATION]:
+
+
+
+Rating
+{ TO_Translator: rate FOTO in google play store. }
+[TRANSLATION]:
+
+
+
+Please connect to wifi to use Chromecast.
+[TRANSLATION]:
+
+
+
+Could not find a Chromecast device.
+[TRANSLATION]:
+
+
+
+Close
+[TRANSLATION]:
+
+
+
+Connect
+{ TO_Translator: connect phone to Chromecast device }
+[TRANSLATION]:
+
+
+
+Now photos organized with FOTO can be applied to the gallery. Press Update Album to apply it instantly.
+[TRANSLATION]:
+
+
+
+Update Album
+[TRANSLATION]:
+
+
+
+Moving files. Please do not exit FOTO nor turn off the device.
+[TRANSLATION]:
+
+
+
+Dealing with files not moved in the process. Please do not exit FOTO nor turn off the device.
+[TRANSLATION]:
+
+
+
+Moving files.
+[TRANSLATION]:
+
+
+
+Deleting files.
+[TRANSLATION]:
+
+
+
+Moving to trash.
+[TRANSLATION]:
+
+
+
+Trash
+{ TO_Translator: name of trash album. Please make it short if possible.}
+[TRANSLATION]:
+
+
+Organize
+[TRANSLATION]:
+
+
+
+New album
+[TRANSLATION]:
+
+
+
+If you update the album name, albums organized with FOTO with the preceding '4OTO_' on the front will  disappear. (From now on)
+[TRANSLATION]:
+
+
+
+Updating album name. Do not turn off the app.
+[TRANSLATION]:
+
+
+
+Update is finished
+[TRANSLATION]:
+
+
+
+updating album name
+[TRANSLATION]:
+
+
+
+photos
+[TRANSLATION]:
+
+
+
+Add album
+[TRANSLATION]:
+
+
+
+Drag your album to a designated position
+[TRANSLATION]:
+
+
+
+Place here to exclude it from organized albums
+[TRANSLATION]:
+
+
+
+Place here to cancel
+[TRANSLATION]:
+
+
+
+Undo
+[TRANSLATION]:
+
+
+
+Complete
+[TRANSLATION]:
+
+
+
+Current version is unable for use. Please delete and reinstall.
+[TRANSLATION]:
+
+
+
+Create a new album.
+[TRANSLATION]:
+
+
+
+
+
+Are you ready to view your organized photos with  FOTO Gallery, the fastest possible way to organize your photos?
+[TRANSLATION]:
+
+
+
+
+You have photos to organize. Touch here to start
+[TRANSLATION]:
+
+
+
+
+Start organizing
+[TRANSLATION]:
+
+
+
+
+FOTO is not available because device does not allow FOTO to access storage. Restarting device will fix it.
+[TRANSLATION]:
+
+
+
+Camera
+[TRANSLATION]:
+
+
+
+Download
+[TRANSLATION]:
+
+
+
+
+Local albums
+[TRANSLATION]:
+
+
+
+No location
+{ TO_Translator: for no gps information in a photo. }
+[TRANSLATION]:
+
+
+
+Some locations couldn't be identified due to network problems.
+[TRANSLATION]:
+
+
+
+Untagged
+[TRANSLATION]:
+
+
+
+There are no email applications installed.
+[TRANSLATION]:
+
+
+
+loading
+[TRANSLATION]:
+
+
+
+Input password
+[TRANSLATION]:
+
+
+
+Enter a password
+[TRANSLATION]:
+
+
+
+Wrong password.
+[TRANSLATION]:
+
+
+
+Current password
+[TRANSLATION]:
+
+
+
+Enter your current password.
+[TRANSLATION]:
+
+
+
+Change password
+[TRANSLATION]:
+
+
+
+Enter a new password.
+[TRANSLATION]:
+
+
+
+Check password
+[TRANSLATION]:
+
+
+
+Please input your password once more.
+[TRANSLATION]:
+
+
+
+Your password does not match the previous password.
+[TRANSLATION]:
+
+
+
+Purchase
+[TRANSLATION]:
+
+
+
+Premium upgrade is required.
+[TRANSLATION]:
+
+
+
+Touch the album name to organize
+[TRANSLATION]:
+
+
+
+Touch the centre to zoom in
+[TRANSLATION]:
+
+
+
+Start
+[TRANSLATION]:
+
+
+
+Hold the album name to move.
+[TRANSLATION]:
+
+
+
+Pending
+[TRANSLATION]:
+
+
+
+Premium user
+[TRANSLATION]:
+
+
+
+Premium upgrade
+[TRANSLATION]:
+
+
+
+Premium upgrade(Recheck)
+[TRANSLATION]:
+
+
+
+Set password
+[TRANSLATION]:
+
+
+
+Make a suggestion
+[TRANSLATION]:
+
+
+
+Recommend to a friend
+[TRANSLATION]:
+
+
+
+Review & Rate
+{ TO_Translator: Leave a review on player store.}
+[TRANSLATION]:
+
+
+
+Edit
+{ TO_Translator: editing photo or video }
+[TRANSLATION]:
+
+
+
+Warning
+[TRANSLATION]:
+
+
+
+
+Notice
+[TRANSLATION]:
+
+
+
+
+You don't have a hidden album.
+[TRANSLATION]:
+
+
+
+
+Processing.. Please wait. Do not forcibly stop the App.
+[TRANSLATION]:
+
+
+
+
+If you organize photos in the SD memory they will get copied to the embedded memory.
+[TRANSLATION]:
+
+
+
+
+{## count of photo/video ##}   photos got organized.
+[TRANSLATION]:
+
+
+
+Press here to hide the time.
+[TRANSLATION]:
+
+
+
+Recommend FOTO to your friends and family! The more you recommend the better our app gets.
+[TRANSLATION]:
+
+
+
+Not now
+{ TO_Translator: button title for user don't want to recommend to friends. }
+[TRANSLATION]:
+
+
+
+You can recommend our app anytime to your friends here.
+[TRANSLATION]:
+
+
+
+Gallery optimization
+[TRANSLATION]:
+
+
+
+Gallery optimization resolves the following problems.
+[TRANSLATION]:
+
+
+
+1. Photos not appearing on PC(MTP mode).
+[TRANSLATION]:
+
+
+
+2. Deleted photos is left broken.
+[TRANSLATION]:
+
+
+
+Depending on the number of photos this may take some time. Would you like to proceed? 
+[TRANSLATION]:
+
+
+
+Gallery optimization is in process. Please wait.
+[TRANSLATION]:
+
+
+
+SD Card
+[TRANSLATION]:
+
+
+
+Follow the directions below to organize your photos/videos in the SD card.
+[TRANSLATION]:
+
+
+
+
+You must select {##  sd card name(external storage) ##}   !
+[TRANSLATION]:
+
+
+
+
+Start settings
+[TRANSLATION]:
+
+
+
+
+{## sd card name(external storage) ##}   is not selected. Would you like to restart setting?
+[TRANSLATION]:
+
+
+
+Purchase successful
+[TRANSLATION]:
+
+
+
+Congratulations. You are now a premium member.
+[TRANSLATION]:
+
+
+
+Purchase failed
+[TRANSLATION]:
+
+
+
+It's okay. Try again.
+[TRANSLATION]:
+
+
+
+You should update FOTO.
+[TRANSLATION]:
+
+
+
+Crop
+{ TO_Translator: crop(cut) an image(photo) }
+[TRANSLATION]:
+
+
+
+Share
+[TRANSLATION]:
+
+
+
+Set as wallpaper/contact.
+[TRANSLATION]:
+
+
+
+Setting wallpaper
+[TRANSLATION]:
+
+
+
+Cannot load the media!
+[TRANSLATION]:
+
+
+
+List style
+{ TO_Translator: for album list : 2 columns or 3 colums }
+[TRANSLATION]:
+
+
+
+2 columns
+[TRANSLATION]:
+
+
+
+Select media
+[TRANSLATION]:
+
+
+
+Help
+[TRANSLATION]:
+
+
+
+Couldn't find item.
+[TRANSLATION]:
+
+
+
+{## album name ##}   is invalid album name.
+[TRANSLATION]:
+
+
+
+Change cover
+[TRANSLATION]:
+
+
+
+Set as album cover
+[TRANSLATION]:
+
+
+
+Auto ( 1st Photo )
+{ TO_Translator: album cover is automatically selected. ( 1st photo of album ) }
+[TRANSLATION]:
+
+
+
+Select Photo
+[TRANSLATION]:
+
+
+
+Sort Order
+[TRANSLATION]:
+
+
+
+Newest created
+[TRANSLATION]:
+
+
+
+Oldest created
+[TRANSLATION]:
+
+
+
+Name asc. (A-Z)
+[TRANSLATION]:
+
+
+
+Name desc. (Z-A)
+[TRANSLATION]:
+
+
+
+{## an alphabet character ##}   : Name starts
+[TRANSLATION]:
+
+
+
+Special character
+[TRANSLATION]:
+
+
+
+What's New
+[TRANSLATION]:
+
+
+
+Already purchased!
+[TRANSLATION]:
+
+
+
+Video Player
+[TRANSLATION]:
+
+
+
+Loading video...
+[TRANSLATION]:
+
+
+
+Play video
+[TRANSLATION]:
+
+
+
+Pause video
+[TRANSLATION]:
+
+
+
+Reload video
+[TRANSLATION]:
+
+
+
+Resume video
+[TRANSLATION]:
+
+
+
+Resume playing from {##  time text ##}   ?
+[TRANSLATION]:
+
+
+
+Resume playing
+[TRANSLATION]:
+
+
+
+Start over
+[TRANSLATION]:
+
+
+
+File not found! Moved to next.
+[TRANSLATION]:
+
+
+
+Failed to create folder.
+[TRANSLATION]:
+
+
+
+Hidden Albums
+[TRANSLATION]:
+
+
+
+Show hidden
+[TRANSLATION]:
+
+
+
+Hide
+[TRANSLATION]:
+
+
+
+Unhide
+[TRANSLATION]:
+
+
+
+Notice for hidden albums
+[TRANSLATION]:
+
+
+
+
+Password is available only in Premium version.
+[TRANSLATION]:
+
+
+
+
+Hiding makes photos invisible on Gallery.
+[TRANSLATION]:
+
+
+
+
+Hidden items could be visible on some file explorer.
+[TRANSLATION]:
+
+
+
+
+You should unhide albums before uninstalling FOTO.
+[TRANSLATION]:
+
+
+
+
+FOTO does not backup password.
+[TRANSLATION]:
+
+
+
+
+If delete hidden files, it is unrecoverable.
+[TRANSLATION]:
+
+
+
+
+
+Touch {##  icon for viewiing hiddens ##}   for "Show hidden"
+[TRANSLATION]:
+
+
+
+
+
+Touch {##  icon for drawer menu ##}    for "Settings for hiding"
+[TRANSLATION]:
+
+	    
+	
+
+Using password :
+[TRANSLATION]:
+
+
+
+ON
+[TRANSLATION]:
+
+
+
+OFF
+[TRANSLATION]:
+
+
+
+Continue
+[TRANSLATION]:
+
+
+
+Hiding Settings
+[TRANSLATION]:
+
+
+
+Notice- Recover only files. - Some information of media may not be recovered. (like time info.) - If hidden files have been deleted, it could not be recoverable.
+	
+[TRANSLATION]:
+
+
+
+Recover albums which were not unhidden before uninstalling FOTO.
+[TRANSLATION]:
+
+
+
+Previously hidden albums moved to normal album list.
+[TRANSLATION]:
+
+
+
+
+Failed to rename. Device does not allow invalid character like emoji.
+[TRANSLATION]:
+
+
+
+Failed.
+[TRANSLATION]:
+
+
+
+An error occurred on the external app.
+[TRANSLATION]:
+
+
+
+Invalid characters: emoji, ?, :, \, *, |, /, \, <, >
+[TRANSLATION]:
+
+
+
+
+Search
+[TRANSLATION]:
+
+
+
+Search tags
+[TRANSLATION]:
+
+
+
+Edit tags
+[TRANSLATION]:
+
+
+
+separate by space
+[TRANSLATION]:
+
+
+
+Append tags
+[TRANSLATION]:
+
+
+
+Replace tags
+[TRANSLATION]:
+
+
+
+Delete tags ?
+[TRANSLATION]:
+
+
+
+Tag
+[TRANSLATION]:
+
+
+
+Start slideshow
+[TRANSLATION]:
+
+
+
+Stop slideshow
+[TRANSLATION]:
+
+
+
+Slideshow interval
+[TRANSLATION]:
+
+
+
+Could not continue because device connected to PC with Mass Storage mode.
+[TRANSLATION]:
+
+
+
+Could not continue because of invalid file path.\nRetry after restart FOTO or device.
+[TRANSLATION]:
+
+
+
+No results.
+[TRANSLATION]:
+
+
+
+Invalid tags
+[TRANSLATION]:
+
+
+
+'AND', 'OR', 'NOT' are not valid for tags.
+[TRANSLATION]:
+
+
+
+Rename
+[TRANSLATION]:
+
+
+
+Copy
+[TRANSLATION]:
+
+
+
+Move
+[TRANSLATION]:
+
+
+
+Delete now
+[TRANSLATION]:
+
+
+
+Not allowed to modify.
+[TRANSLATION]:
+
+
+
+Android 4.4 don't allow non-stock app to delete/move/create file on external SD card. It's limitation of Android, not FOTO.
+[TRANSLATION]:
+
+
+
+Internal Storage
+[TRANSLATION]:
+
+
+
+USB(Other) Storage
+[TRANSLATION]:
+
+
+
+Error on getting storage information. Retry again after a while.
+[TRANSLATION]:
+
+
+
+Print
+[TRANSLATION]:
+
+
+
+Free
+{ TO_Translator: (unfixed ) ratio for cropping a photo. ( not 3:4, 1:1, 16:9 etc.. ) }
+[TRANSLATION]:
+
+
+
+Original
+{ TO_Translator: original ratio for cropping a photo. ( same ratio of origianl photo ) }
+[TRANSLATION]:
+
+
+
+
+Details 
+{ TO_Translator: word for menu which shows properties of photo or video }
+[TRANSLATION]:
+
+
+
+
+Unknown
+[TRANSLATION]:
+
+
+
+
+Properties
+[TRANSLATION]:
+
+
+
+
+EXIF
+[TRANSLATION]:
+
+
+
+
+No EXIF data
+[TRANSLATION]:
+
+
+
+No tags
+[TRANSLATION]:
+
+
+
+{## count of photo/video ##}   photos is copied to {##  album name ##}  .
+[TRANSLATION]:
+
+
+
+Waiting for the storage to complete..
+{ TO_Translator: waiting for file copy(move) completed }
+[TRANSLATION]:
+
+
+
+Album to copy
+[TRANSLATION]:
+
+
+
+No permission to modify. Canceled.
+[TRANSLATION]:
+
+
+
+
+New album has been created.
+[TRANSLATION]:
+
+
+
+
+Permission
+{ TO_Translator: The android permission for accessing function of phone(device) }
+[TRANSLATION]:
+
+
+
+
+FOTO remember purchase information with play store account.(encrypted form.)
+[TRANSLATION]:
+
+
+
+So, FOTO needs permission to make encrypted account information.
+[TRANSLATION]:
+
+
+
+
+FOTO only read your store account not entire contacts.		
+[TRANSLATION]:
+
+
+
+FOTO needs permission to read/write photos and videos.
+[TRANSLATION]:
+
+
+
+
+Please select "allow" on next screen.      
+[TRANSLATION]:
+
+
+
+
+Canceled because APP has no permission to execute.
+[TRANSLATION]:
+
+
+
+Check previous purchase
+[TRANSLATION]:
+
+
+
+Settings
+[TRANSLATION]:
+
+
+
+Change Screen orientation
+[TRANSLATION]:
+
+
+
+Canceling..
+[TRANSLATION]:
+
+
+
+Cancel all remaining file operation?
+[TRANSLATION]:
+
+
+
+Keep going
+{ TO_Translator: button label for "don't want to cancel copy/move job." }
+[TRANSLATION]:
+
+
+
+Cancel all
+[TRANSLATION]:
+
+
+
+All photos
+[TRANSLATION]:
+
+
+
+All videos
+[TRANSLATION]:
+
+
+
+Already in trash!
+[TRANSLATION]:
+
+
+
+Canceled.
+[TRANSLATION]:
+
+
+
+seconds
+{ TO_Translator: time unit }
+[TRANSLATION]:
+
+
+
+Change settings for hiding
+[TRANSLATION]:
+
+
+
+All photos or videos !
+[TRANSLATION]:
+
+
+
+Delete some tags
+[TRANSLATION]:
+
+
+
+Delete all tags
+[TRANSLATION]:
+
+
+
+Include videos
+[TRANSLATION]:
+
+
+
+Show photos with videos in an album
+[TRANSLATION]:
+
+
+
+Show only photos in an album
+[TRANSLATION]:
+
+
+
+Exclude
+{ TO_Translator: exlcude one album from list(first screen of FOTO) }
+[TRANSLATION]:
+
+
+
+Re-include
+{ TO_Translator: make an album included in list.  ( the album was excluded from list.)}
+[TRANSLATION]:
+
+
+
+Show excluded
+[TRANSLATION]:
+
+
+
+Excluded album
+[TRANSLATION]:
+
+
+
+- Excluding makes this album not displayed in FOTO.
+[TRANSLATION]:
+
+
+
+Other apps can see the excluded.(different from hiding)
+[TRANSLATION]:
+
+
+
+- FOTO shows you it at any time. "Show excluded" in menu {##  overflow menu icon ##}   at upper right.)
+[TRANSLATION]:
+
+
+
+- Excluded album is marked with {##  excluded album icon ##}   icon.	
+[TRANSLATION]:
+	
+	
+
+
+Album list
+[TRANSLATION]:
+
+
+
+
+Hiddens
+[TRANSLATION]:
+
+
+
+Enable trash function.
+[TRANSLATION]:
+
+
+
+Trash icon delete files. (Except organize screen)
+[TRANSLATION]:
+
+
+
+Trash icon move files to trash.
+[TRANSLATION]:
+
+
+
+All hidden photos
+[TRANSLATION]:
+
+
+
+
+All hidden videos
+[TRANSLATION]:
+
+
+
+
+Enter a name for new tab
+{ TO_Translator: tab is "organizing tab". it is located at upper of organizing wheel}
+[TRANSLATION]:
+
+
+
+
+Limit exceeded
+{ TO_Translator: warning message on creating more organize tab in free version.}
+[TRANSLATION]:
+
+
+
+
+
+Free version can create maximum 2 tabs.
+[TRANSLATION]:
+
+
+
+
+
+Premium version has no limit.
+[TRANSLATION]:
+
+
+
+
+
+Newest added
+{ TO_Translator: sort by added(saved) time }
+[TRANSLATION]:
+
+
+
+Oldest added
+[TRANSLATION]:
+
+
+
+Add
+{ TO_Translator: label for adding a organize tab. }
+[TRANSLATION]:
+
+
+
+Created
+{ TO_Translator: label for sort photo by created time. }
+[TRANSLATION]:
+
+
+
+Added
+{ TO_Translator: label for sort photo by saved( added to device) time. }
+[TRANSLATION]:
+
+
+
+
+Long press brings up menu.
+{ TO_Translator: long click tab of organize screen. }
+[TRANSLATION]:
+
+
+
+
+This feature is only availale in Premium version.
+[TRANSLATION]:
+
+
+
+Do You want to purchase Premium version, or check past purchase?
+[TRANSLATION]:
+
+
+
+Features of premium version.
+[TRANSLATION]:
+
+
+
+Unlimited organize wheel.
+[TRANSLATION]:
+
+
+
+Password for hidden medias
+[TRANSLATION]:
+
+
+
+Custom sorting for album list. (Drag & Drop).
+[TRANSLATION]:
+
+
+
+No recommendation popup
+[TRANSLATION]:
+
+
+
+More will be added in future
+[TRANSLATION]:
+
+
+
+Camera at 1st position
+{ TO_Translator: move "Camera" album at 1st position of list.( album list, 1st screen of FOTO). label for settings screen. }
+[TRANSLATION]:
+
+
+
+If you have not assigned Camera album position, it is located at first available position.( 1st or closest to 1st position)
+[TRANSLATION]:
+
+
+
+Camera album is sorted like others.
+[TRANSLATION]:
+
+
+
+Trash at last position
+[TRANSLATION]:
+
+
+
+If you have not assigned Trash album position, it is located at last available position
+[TRANSLATION]:
+
+
+
+Trash album is sorted like others
+[TRANSLATION]:
+
+
+
+Long press(click) starts drag
+[TRANSLATION]:
+
+
+
+Other albums are sorted in default(alphabetical) order
+[TRANSLATION]:
+
+
+
+The position can be changed when album count changes.
+[TRANSLATION]:
+
+
+
+If the position is not available
+[TRANSLATION]:
+
+
+
+
+
+Check update
+{ TO_Translator: label for settings. checking update on open FOTO }
+[TRANSLATION]:
+
+
+
+
+
+Fixed other bugs
+{ TO_Translator: fixed bugs(error) of FOTO app. }
+[TRANSLATION]:
+
+
+
+Smallest to largest
+{ TO_Translator: sort photos by size. (  ascending order) }
+[TRANSLATION]:
+
+
+
+
+Largest to smallest
+[TRANSLATION]:
+
+
+
+
+Created time sort
+[TRANSLATION]:
+
+
+
+
+Added time sort
+[TRANSLATION]:
+
+
+
+
+Name sort
+[TRANSLATION]:
+
+
+
+File size sort
+[TRANSLATION]:
+
+
+
+
+Thumbnail list
+{ TO_Translator: label in settings screen. it is the screen when you enter an album. ( small photos list of an album) }
+[TRANSLATION]:
+
+
+
+
+Thumbnail columns
+{ TO_Translator: label in settings screen. count for showing thumbnail(small photo) in one line.}
+[TRANSLATION]:
+
+
+
+
+Column count 4 can make device slow.(Depends on memory(RAM))
+[TRANSLATION]:
+
+
+
+
+By system setting
+{ TO_Translator: screen orientation by system setting }
+[TRANSLATION]:
+
+
+
+
+By sensor
+{ TO_Translator:  screen orientation by sensor }
+[TRANSLATION]:
+
+
+
+
+2 in portrait( 4 in landscape)
+{ TO_Translator:  column count of thumbnail list }
+[TRANSLATION]:
+
+
+
+Wallpaper
+[TRANSLATION]:
+
+
+
+Maximum brightness
+{ TO_Translator:  screen brightness }
+[TRANSLATION]:
+
+
+
+View media in maximum brightness
+[TRANSLATION]:
+
+
+
+View media in default(system) brightness
+[TRANSLATION]:
+
+
+
+
+File not found
+[TRANSLATION]:
+
+
+
+
+Theme
+[TRANSLATION]:
+
+
+
+
+Color
+[TRANSLATION]:
+
+
+
+White
+{ TO_Translator: color for theme}
+[TRANSLATION]:
+
+
+
+
+Black
+{ TO_Translator: color for theme}
+[TRANSLATION]:
+
+
+
+Refresh(media scan)
+{ TO_Translator: refersh album( or thumbnail) list}
+[TRANSLATION]:
+
+
+
+Error occurred!
+[TRANSLATION]:
+
+
+
+Select folder
+{ TO_Translator:  screen title for selecting a folder}
+[TRANSLATION]:
+
+
+
+
+Changing theme takes effect after restart. Would you like to restart FOTO now?
+[TRANSLATION]:
+
+
+
+Select
+{ TO_Translator:  button label for selecting a folder}
+[TRANSLATION]:
+
+
+
+Location
+{ TO_Translator:  label for a folder location to create a folder}
+[TRANSLATION]:
+
+
+
+
+Translation
+{ TO_Translator:  menu text for translator list }
+[TRANSLATION]:
+
+
+
+
+We would like to give special thanks to the following people for their great contributions.
+[TRANSLATION]:
+
+
+
+Fixed bugs
+[TRANSLATION]:
